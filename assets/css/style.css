@@ -86,19 +86,19 @@ a:hover{
 }
 /*dark-mode*/
 
-.fullpagequran header {
+.full-page header {
   display: none;
 }
-.fullpagequran .btn-fullpquran{
+.full-page .btn-fullpquran{
   display: block;
 }
-.fullpagequran footer {
+.full-page footer {
   display: none;
 }
-.fullpagequran .card-header {
+.full-page .card-header {
   display: none;
 }
-.fullpagequran .card-footer {
+.full-page .card-footer {
   display: none;
 }
 
